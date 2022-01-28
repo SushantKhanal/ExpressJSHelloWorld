@@ -6,13 +6,13 @@ const members = [
         status: 'active'
     },
     {
-        id: 1,
+        id: 2,
         name: 'Samuel Doe',
         email: 'sam@gmail.com',
         status: 'inactive'
     },
     {
-        id: 1,
+        id: 3,
         name: 'Debora Doe',
         email: 'deb@gmail.com',
         status: 'active'
